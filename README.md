@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoaBenitezPXL
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Digtale design
+- 🌱 I’m currently learning Digtal design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

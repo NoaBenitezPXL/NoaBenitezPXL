@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NoaBenitezPXL
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning Digtal design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on website projects
+- 📫 How to reach me - 12000080@student.pxl.be
 
 <!---
 NoaBenitezPXL/NoaBenitezPXL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
